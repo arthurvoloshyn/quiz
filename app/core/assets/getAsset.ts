@@ -1,5 +1,3 @@
-/* eslint-disable global-require */
-
 // TODO: this file can be generated automatically
 
 type AssetId = "check" | "error" | "user";

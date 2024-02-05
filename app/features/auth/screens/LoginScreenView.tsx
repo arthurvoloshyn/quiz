@@ -41,9 +41,7 @@ export const LoginScreenView: FC<LoginScreenViewProps> = ({
         />
         <PrimaryButton
           className="mt-4"
-          onPress={() => {
-            onLoginPress({ email, password });
-          }}
+          onPress={() => onLoginPress({ email, password })}
           title="Login"
           isInProgress={isActive}
         />
