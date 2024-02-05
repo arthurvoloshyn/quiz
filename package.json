@@ -1,6 +1,6 @@
 {
   "name": "quiz-app",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "pods": "bundle install && bundle exec pod install --project-directory=ios/ --repo-update",
