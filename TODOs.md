@@ -1,0 +1,2 @@
+- [ ] add visual regression tests for storybook stories
+- [ ] add types for navigation
