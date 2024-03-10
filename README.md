@@ -2,6 +2,11 @@
 
 Welcome to the Quiz App repository! This project is built using React Native and aims to provide a seamless experience for creating and taking quizzes on mobile devices.
 
+## Login data
+
+- email: `test@test.com`
+- password: `test`
+
 ## Scripts
 
 Here's a detailed explanation of each script defined in the `package.json` file:
